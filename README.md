@@ -53,4 +53,4 @@ agnostic_nms=False, augment=False, classes=None, conf_thres=0.4, device='', four
 ---
 ## Output
 
-![](output.mp4)
+![](output.gif)
