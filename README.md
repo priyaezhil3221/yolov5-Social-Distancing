@@ -40,16 +40,6 @@ $ python detect.py --source ./inference/videos/
 ```
 
 
-**Options**
-
-*Add using '--'*
-
-
-```
-agnostic_nms=False, augment=False, classes=None, conf_thres=0.4, device='', fourcc='mp4v', half=False, img_size=640, iou_thres=0.5, output='inference/output', save_txt=False, source='./inference/images/', view_img=False, weights='yolov5s.pt'
-```
-
-
 ---
 ## Output
 
